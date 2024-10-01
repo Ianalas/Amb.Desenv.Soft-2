@@ -1,0 +1,13 @@
+body{
+  background-color: #4b4b4b;
+  max-width: 600px;
+  color: #eeeeee;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+  &:hover{
+    color: white;
+  }
+}
